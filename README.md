@@ -24,7 +24,8 @@ Thanks to the great study by Martin Wagendorfer, Die Schrift des Eneas Silvius P
 ### Download Link
 <p>The font is made by open source software [Fontforge](https://fontforge.org/en-US/).
 This is a temporal product, since there are some letters like W, K and Z, which have not be found in the manuscript and thus left empty.</p>
-it can be downlaoded as [humanistic script](https://github.com/Tiezjin/tiezjin.github.io/blob/main/Humanistic%20_Script.ttf)
+<p>it can be downlaoded as [humanistic script](https://github.com/Tiezjin/tiezjin.github.io/blob/main/Humanistic%20_Script.ttf)</p>
+<br>
 
 #### Source:
 <ul>
