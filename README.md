@@ -22,9 +22,11 @@ Thanks to the great study by Martin Wagendorfer, Die Schrift des Eneas Silvius P
 
 
 ### Download Link
+![Humanistic_Script](https://github.com/user-attachments/assets/94d3c82d-d78c-410e-b8fa-971831ef62e7)
+
 <p>The font is made by open source software [Fontforge](https://fontforge.org/en-US/).
 This is a temporal product, since there are some letters like W, K and Z, which have not be found in the manuscript and thus left empty.</p>
-<p>it can be downlaoded as [humanistic script](https://github.com/Tiezjin/tiezjin.github.io/blob/main/Humanistic%20_Script.ttf)</p>
+<p>it can be downlaoded as [humanistic script](https://github.com/Tiezjin/tiezjin.github.io/blob/main/Humanistic%20_Script.ttf) on the github.</p>
 <br>
 
 #### Source:
